@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/hello/static/css/main.d1b05096.chunk.css",
-    "main.js": "/hello/static/js/main.882dfb36.chunk.js",
-    "main.js.map": "/hello/static/js/main.882dfb36.chunk.js.map",
-    "runtime-main.js": "/hello/static/js/runtime-main.f2d37f42.js",
-    "runtime-main.js.map": "/hello/static/js/runtime-main.f2d37f42.js.map",
-    "static/js/2.dc493817.chunk.js": "/hello/static/js/2.dc493817.chunk.js",
-    "static/js/2.dc493817.chunk.js.map": "/hello/static/js/2.dc493817.chunk.js.map",
-    "index.html": "/hello/index.html",
-    "precache-manifest.b238b618e0f97769c6a250759e2839f3.js": "/hello/precache-manifest.b238b618e0f97769c6a250759e2839f3.js",
-    "service-worker.js": "/hello/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/hello/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.dc493817.chunk.js.LICENSE": "/hello/static/js/2.dc493817.chunk.js.LICENSE",
-    "static/media/logo.svg": "/hello/static/media/logo.5d5d9eef.svg"
+    "main.css": "/PersonalWebsiteReact/static/css/main.d1b05096.chunk.css",
+    "main.js": "/PersonalWebsiteReact/static/js/main.aaa2454d.chunk.js",
+    "main.js.map": "/PersonalWebsiteReact/static/js/main.aaa2454d.chunk.js.map",
+    "runtime-main.js": "/PersonalWebsiteReact/static/js/runtime-main.c490496e.js",
+    "runtime-main.js.map": "/PersonalWebsiteReact/static/js/runtime-main.c490496e.js.map",
+    "static/js/2.dc493817.chunk.js": "/PersonalWebsiteReact/static/js/2.dc493817.chunk.js",
+    "static/js/2.dc493817.chunk.js.map": "/PersonalWebsiteReact/static/js/2.dc493817.chunk.js.map",
+    "index.html": "/PersonalWebsiteReact/index.html",
+    "precache-manifest.c1aab083d269af77cd95f854f751e468.js": "/PersonalWebsiteReact/precache-manifest.c1aab083d269af77cd95f854f751e468.js",
+    "service-worker.js": "/PersonalWebsiteReact/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/PersonalWebsiteReact/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.dc493817.chunk.js.LICENSE": "/PersonalWebsiteReact/static/js/2.dc493817.chunk.js.LICENSE",
+    "static/media/logo.svg": "/PersonalWebsiteReact/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f2d37f42.js",
+    "static/js/runtime-main.c490496e.js",
     "static/js/2.dc493817.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.882dfb36.chunk.js"
+    "static/js/main.aaa2454d.chunk.js"
   ]
 }
